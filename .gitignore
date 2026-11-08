@@ -1,0 +1,12 @@
+node_modules/
+.medusa/
+dist/
+build/
+coverage/
+static/
+uploads/
+.env
+.env.*
+!.env.template
+*.log
+.DS_Store
